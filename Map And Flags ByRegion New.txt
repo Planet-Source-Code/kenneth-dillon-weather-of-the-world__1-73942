@@ -1,0 +1,210 @@
+http://www.infoplease.com/ipa/A0107264.html,Afghanistan
+http://www.infoplease.com/ipa/A0107268.html,Albania
+http://www.infoplease.com/ipa/A0107272.html,Algeria
+http://www.infoplease.com/ipa/A0107276.html,Andorra
+http://www.infoplease.com/ipa/A0107280.html,Angola
+http://www.infoplease.com/ipa/A0107284.html,Antigua & Barbuda
+http://www.infoplease.com/ipa/A0107288.html,Argentina
+http://www.infoplease.com/ipa/A0107292.html,Armenia
+http://www.infoplease.com/ipa/A0107296.html,Australia
+http://www.infoplease.com/ipa/A0107301.html,Austria
+http://www.infoplease.com/ipa/A0107305.html,Azerbaijan
+http://www.infoplease.com/ipa/A0107309.html,Bahamas
+http://www.infoplease.com/ipa/A0107313.html,Bahrain
+http://www.infoplease.com/ipa/A0107317.html,Bangladesh
+http://www.infoplease.com/ipa/A0107321.html,Barbados
+http://www.infoplease.com/ipa/A0107325.html,Belarus
+http://www.infoplease.com/ipa/A0107329.html,Belgium
+http://www.infoplease.com/ipa/A0107333.html,Belize
+http://www.infoplease.com/ipa/A0107337.html,Benin
+http://www.infoplease.com/ipa/A0107341.html,Bhutan
+http://www.infoplease.com/ipa/A0107345.html,Bolivia
+http://www.infoplease.com/ipa/A0107349.html,Bosnia & Herzegovina
+http://www.infoplease.com/ipa/A0107353.html,Botswana
+http://www.infoplease.com/ipa/A0107357.html,Brazil
+http://www.infoplease.com/ipa/A0107361.html,Brunei Darussalam
+http://www.infoplease.com/ipa/A0107365.html,Bulgaria
+http://www.infoplease.com/ipa/A0107369.html,Burkina Faso
+http://www.infoplease.com/ipa/A0107373.html,Burma (Myanmar)
+http://www.infoplease.com/ipa/A0107374.html,Burundi
+http://www.infoplease.com/ipa/A0107378.html,Cambodia
+http://www.infoplease.com/ipa/A0107382.html,Cameroon
+http://www.infoplease.com/ipa/A0107386.html,Canada
+http://www.infoplease.com/ipa/A0107395.html,Cape Verde
+http://www.infoplease.com/ipa/A0107399.html,Central African Republic
+http://www.infoplease.com/ipa/A0107403.html,Chad
+http://www.infoplease.com/ipa/A0107407.html,Chile
+http://www.infoplease.com/ipa/A0107411.html,China
+http://www.infoplease.com/ipa/A0107419.html,Colombia
+http://www.infoplease.com/ipa/A0107423.html,Comoros
+http://www.infoplease.com/ipa/A0107427.html,Congo
+http://www.infoplease.com/ipa/A0198161.html,Congo, Democratic Republic of
+ the
+http://www.infoplease.com/ipa/A0107430.html,Costa Rica
+http://www.infoplease.com/ipa/A0107434.html,Cote d'Ivoire
+http://www.infoplease.com/ipa/A0107439.html,Croatia
+http://www.infoplease.com/ipa/A0107443.html,Cuba
+http://www.infoplease.com/ipa/A0107447.html,Cyprus
+http://www.infoplease.com/ipa/A0107456.html,Czech Republic
+http://www.infoplease.com/ipa/A0107460.html,Denmark
+http://www.infoplease.com/ipa/A0107467.html,Djibouti
+http://www.infoplease.com/ipa/A0107471.html,Dominica
+http://www.infoplease.com/ipa/A0107475.html,Dominican Republic
+http://www.infoplease.com/ipa/A0107479.html,Ecuador
+http://www.infoplease.com/ipa/A0902237.html,East Timor
+http://www.infoplease.com/ipa/A0107484.html,Egypt
+http://www.infoplease.com/ipa/A0107489.html,El Salvador
+http://www.infoplease.com/ipa/A0108078.html,England
+http://www.infoplease.com/ipa/A0107493.html,Equatorial Guinea
+http://www.infoplease.com/ipa/A0107497.html,Eritrea
+http://www.infoplease.com/ipa/A0107501.html,Estonia
+http://www.infoplease.com/ipa/A0107505.html,Ethiopia
+http://www.infoplease.com/ipa/A0107509.html,Fiji
+http://www.infoplease.com/ipa/A0107513.html,Finland
+http://www.infoplease.com/ipa/A0107517.html,France
+http://www.infoplease.com/ipa/A0107556.html,Gabon
+http://www.infoplease.com/ipa/A0107560.html,Gambia, The
+http://www.infoplease.com/ipa/A0107564.html,Georgia
+http://www.infoplease.com/ipa/A0107568.html,Germany
+http://www.infoplease.com/ipa/A0107584.html,Ghana
+http://www.infoplease.com/ipa/A0108078.html,Great Britain
+http://www.infoplease.com/ipa/A0107588.html,Greece
+http://www.infoplease.com/ipa/A0107592.html,Grenada
+http://www.infoplease.com/ipa/A0107596.html,Guatemala
+http://www.infoplease.com/ipa/A0107600.html,Guinea
+http://www.infoplease.com/ipa/A0107604.html,Guinea-Bissau
+http://www.infoplease.com/ipa/A0107608.html,Guyana
+http://www.infoplease.com/ipa/A0107612.html,Haiti
+http://www.infoplease.com/ipa/A0107616.html,Honduras
+http://www.infoplease.com/ipa/A0107620.html,Hungary
+http://www.infoplease.com/ipa/A0107624.html,Iceland
+http://www.infoplease.com/ipa/A0107629.html,India
+http://www.infoplease.com/ipa/A0107634.html,Indonesia
+http://www.infoplease.com/ipa/A0107640.html,Iran
+http://www.infoplease.com/ipa/A0107644.html,Iraq
+http://www.infoplease.com/ipa/A0107648.html,Ireland
+http://www.infoplease.com/ipa/A0107652.html,Israel
+http://www.infoplease.com/ipa/A0107658.html,Italy
+http://www.infoplease.com/ipa/A0107662.html,Jamaica
+http://www.infoplease.com/ipa/A0107666.html,Japan
+http://www.infoplease.com/ipa/A0107670.html,Jordan
+http://www.infoplease.com/ipa/A0107674.html,Kazakhstan
+http://www.infoplease.com/ipa/A0107678.html,Kenya
+http://www.infoplease.com/ipa/A0107682.html,Kiribati
+http://www.infoplease.com/ipa/A0107686.html,Korea North
+http://www.infoplease.com/ipa/A0107690.html,Korea South
+http://www.infoplease.com/ipa/A0107694.html,Kuwait
+http://www.infoplease.com/ipa/A0107698.html,Kyrgyzstan
+http://www.infoplease.com/ipa/A0107702.html,Laos
+http://www.infoplease.com/ipa/A0107706.html,Latvia
+http://www.infoplease.com/ipa/A0107710.html,Lebanon
+http://www.infoplease.com/ipa/A0107714.html,Lesotho
+http://www.infoplease.com/ipa/A0107718.html,Liberia
+http://www.infoplease.com/ipa/A0107722.html,Libya
+http://www.infoplease.com/ipa/A0107726.html,Liechtenstein
+http://www.infoplease.com/ipa/A0107730.html,Lithuania
+http://www.infoplease.com/ipa/A0107734.html,Luxembourg
+http://www.infoplease.com/ipa/A0107738.html,Macedonia 
+http://www.infoplease.com/ipa/A0107743.html,Madagascar
+http://www.infoplease.com/ipa/A0107747.html,Malawi
+http://www.infoplease.com/ipa/A0107751.html,Malaysia
+http://www.infoplease.com/ipa/A0107755.html,Maldives
+http://www.infoplease.com/ipa/A0107759.html,Mali
+http://www.infoplease.com/ipa/A0107763.html,Malta
+http://www.infoplease.com/ipa/A0107767.html,Marshall Islands
+http://www.infoplease.com/ipa/A0107771.html,Mauritania
+http://www.infoplease.com/ipa/A0107775.html,Mauritius
+http://www.infoplease.com/ipa/A0107779.html,Mexico
+http://www.infoplease.com/ipa/A0107783.html,Micronesia
+http://www.infoplease.com/ipa/A0107787.html,Moldova
+http://www.infoplease.com/ipa/A0107792.html,Monaco
+http://www.infoplease.com/ipa/A0107796.html,Mongolia
+http://www.infoplease.com/ipa/A0933809.html,Montenegro
+http://www.infoplease.com/ipa/A0107800.html,Morocco
+http://www.infoplease.com/ipa/A0107804.html,Mozambique
+http://www.infoplease.com/ipa/A0107808.html,Myanmar
+http://www.infoplease.com/ipa/A0107812.html,Namibia
+http://www.infoplease.com/ipa/A0107816.html,Nauru
+http://www.infoplease.com/ipa/A0107820.html,Nepal
+http://www.infoplease.com/ipa/A0107824.html,The Netherlands
+http://www.infoplease.com/ipa/A0107834.html,New Zealand
+http://www.infoplease.com/ipa/A0107839.html,Nicaragua
+http://www.infoplease.com/ipa/A0107843.html,Niger
+http://www.infoplease.com/ipa/A0107847.html,Nigeria
+http://www.infoplease.com/ipa/A0107851.html,Norway
+http://www.infoplease.com/ipa/A0108101.html,Northern Ireland
+http://www.infoplease.com/ipa/A0107856.html,Oman
+http://www.infoplease.com/ipa/A0107861.html,Pakistan
+http://www.infoplease.com/ipa/A0107866.html,Palau
+http://www.infoplease.com/ipa/A0776421.html,Palestinian State
+http://www.infoplease.com/ipa/A0107870.html,Panama
+http://www.infoplease.com/ipa/A0107875.html,Papua New Guinea
+http://www.infoplease.com/ipa/A0107879.html,Paraguay
+http://www.infoplease.com/ipa/A0107883.html,Peru
+http://www.infoplease.com/ipa/A0107887.html,The Philippines
+http://www.infoplease.com/ipa/A0107891.html,Poland
+http://www.infoplease.com/ipa/A0107895.html,Portugal
+http://www.infoplease.com/ipa/A0107901.html,Qatar
+http://www.infoplease.com/ipa/A0107905.html,Romania
+http://www.infoplease.com/ipa/A0107909.html,Russia
+http://www.infoplease.com/ipa/A0107926.html,Rwanda
+http://www.infoplease.com/ipa/A0107930.html,St. Kitts & Nevis
+http://www.infoplease.com/ipa/A0107931.html,St. Lucia
+http://www.infoplease.com/ipa/A0107935.html,St. Vincent & The Grenadines
+http://www.infoplease.com/ipa/A0108149.html,Samoa
+http://www.infoplease.com/ipa/A0107939.html,San Marino
+http://www.infoplease.com/ipa/A0107943.html,Sao Tome Principe
+http://www.infoplease.com/ipa/A0107947.html,Saudi Arabia
+http://www.infoplease.com/ipa/A0777806.html,Scotland
+http://www.infoplease.com/ipa/A0107951.html,Senegal
+http://www.infoplease.com/ipa/A0108157.html,Serbia
+http://www.infoplease.com/ipa/A0107955.html,Seychelles
+http://www.infoplease.com/ipa/A0107959.html,Sierra Leone
+http://www.infoplease.com/ipa/A0107963.html,Singapore
+http://www.infoplease.com/ipa/A0107967.html,Slovakia
+http://www.infoplease.com/ipa/A0107971.html,Slovenia
+http://www.infoplease.com/ipa/A0107975.html,Solomon Islands
+http://www.infoplease.com/ipa/A0107979.html,Somalia
+http://www.infoplease.com/ipa/A0107983.html,South Africa
+http://www.infoplease.com/ipa/A0107987.html,Spain
+http://www.infoplease.com/ipa/A0107992.html,Sri Lanka
+http://www.infoplease.com/ipa/A0107996.html,Sudan
+http://www.infoplease.com/ipa/A0108000.html,Suriname
+http://www.infoplease.com/ipa/A0108004.html,Swaziland
+http://www.infoplease.com/ipa/A0108008.html,Sweden
+http://www.infoplease.com/ipa/A0108012.html,Switzerland
+http://www.infoplease.com/ipa/A0108016.html,Syria
+http://www.infoplease.com/ipa/A0108020.html,Taiwan
+http://www.infoplease.com/ipa/A0108024.html,Tajikistan
+http://www.infoplease.com/ipa/A0108028.html,Tanzania
+http://www.infoplease.com/ipa/A0108034.html,Thailand
+http://www.infoplease.com/ipa/A0108038.html,Togo
+http://www.infoplease.com/ipa/A0108042.html,Tonga
+http://www.infoplease.com/ipa/A0108046.html,Trinidad & Tobago
+http://www.infoplease.com/ipa/A0108050.html,Tunisia
+http://www.infoplease.com/ipa/A0108054.html,Turkey
+http://www.infoplease.com/ipa/A0108058.html,Turkmenistan
+http://www.infoplease.com/ipa/A0108062.html,Tuvalu
+http://www.infoplease.com/ipa/A0108066.html,Uganda
+http://www.infoplease.com/ipa/A0108070.html,Ukraine
+http://www.infoplease.com/ipa/A0108074.html,United Arab Emirates
+http://www.infoplease.com/ipa/A0108078.html,United Kingdom
+http://www.infoplease.com/ipa/A0108121.html,United States
+http://www.infoplease.com/ipa/A0108124.html,Uruguay
+http://www.infoplease.com/ipa/A0108128.html,Uzbekistan
+http://www.infoplease.com/ipa/A0108132.html,Vanuatu
+http://www.infoplease.com/ipa/A0108136.html,Vatican City
+http://www.infoplease.com/ipa/A0108140.html,Venezuela
+http://www.infoplease.com/ipa/A0108144.html,Vietnam
+http://www.infoplease.com/ipa/A0759052.html,Western Sahara
+http://www.infoplease.com/ipa/A0777807.html,Wales
+http://www.infoplease.com/ipa/A0108153.html,Yemen
+http://www.infoplease.com/ipa/A0108161.html,Zaire
+http://www.infoplease.com/ipa/A0108165.html,Zambia
+http://www.infoplease.com/ipa/A0108169.html,Zimbabwe
+http://www.infoplease.com/ipa/A0107831.html,Aruba
+http://www.infoplease.com/ipa/A0108106.html,Bermuda
+http://www.infoplease.com/ipa/A0107550.html,French Polynesia
+http://www.infoplease.com/ipa/A0107466.html,Greenland
+http://www.infoplease.com/ipa/A0113949.html,Puerto Rico
+http://www.infoplease.com/ipa/A0113951.html,U.S. Virgin Islands
